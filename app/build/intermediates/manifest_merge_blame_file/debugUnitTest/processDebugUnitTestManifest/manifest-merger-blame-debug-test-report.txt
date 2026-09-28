@@ -1,0 +1,323 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.aistudio.javarunner.xqmvpk.debug" >
+4
+5    <uses-sdk
+5-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:6:5-8:41
+6        android:minSdkVersion="24"
+6-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:7:9-35
+7        android:targetSdkVersion="36" />
+7-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:8:9-38
+8
+9    <uses-permission android:name="android.permission.INTERNET" />
+9-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:10:5-67
+9-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:10:22-64
+10
+11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+12    <!-- <uses-sdk android:minSdkVersion="23"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-ai:17.15.0] /home/amrendra/.gradle/caches/9.3.1/transforms/662ab9c0a79f9c383024dd05d7d42333/transformed/firebase-ai-17.15.0/AndroidManifest.xml:22:5-79
+13-->[com.google.firebase:firebase-ai:17.15.0] /home/amrendra/.gradle/caches/9.3.1/transforms/662ab9c0a79f9c383024dd05d7d42333/transformed/firebase-ai-17.15.0/AndroidManifest.xml:22:22-76
+14    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+14-->[com.google.android.recaptcha:recaptcha:18.7.1] /home/amrendra/.gradle/caches/9.3.1/transforms/c9b65838367b8b526e18841163ad8307/transformed/recaptcha-18.7.1/AndroidManifest.xml:9:5-98
+14-->[com.google.android.recaptcha:recaptcha:18.7.1] /home/amrendra/.gradle/caches/9.3.1/transforms/c9b65838367b8b526e18841163ad8307/transformed/recaptcha-18.7.1/AndroidManifest.xml:9:22-95
+15
+16    <permission
+16-->[androidx.core:core:1.18.0] /home/amrendra/.gradle/caches/9.3.1/transforms/25d6200b818fb6998c5afae588766eb1/transformed/core-1.18.0/AndroidManifest.xml:22:5-24:47
+17        android:name="com.aistudio.javarunner.xqmvpk.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.18.0] /home/amrendra/.gradle/caches/9.3.1/transforms/25d6200b818fb6998c5afae588766eb1/transformed/core-1.18.0/AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.18.0] /home/amrendra/.gradle/caches/9.3.1/transforms/25d6200b818fb6998c5afae588766eb1/transformed/core-1.18.0/AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.aistudio.javarunner.xqmvpk.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.18.0] /home/amrendra/.gradle/caches/9.3.1/transforms/25d6200b818fb6998c5afae588766eb1/transformed/core-1.18.0/AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.18.0] /home/amrendra/.gradle/caches/9.3.1/transforms/25d6200b818fb6998c5afae588766eb1/transformed/core-1.18.0/AndroidManifest.xml:26:22-94
+21    <uses-permission android:name="android.permission.REORDER_TASKS" />
+21-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:24:5-72
+21-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:24:22-69
+22
+23    <queries>
+23-->[androidx.test:runner:1.5.0] /home/amrendra/.gradle/caches/9.3.1/transforms/cc1af34ca71f08c0a286dc24cf3ceb98/transformed/runner-1.5.0/AndroidManifest.xml:24:5-28:15
+24        <package android:name="androidx.test.orchestrator" />
+24-->[androidx.test:runner:1.5.0] /home/amrendra/.gradle/caches/9.3.1/transforms/cc1af34ca71f08c0a286dc24cf3ceb98/transformed/runner-1.5.0/AndroidManifest.xml:25:9-62
+24-->[androidx.test:runner:1.5.0] /home/amrendra/.gradle/caches/9.3.1/transforms/cc1af34ca71f08c0a286dc24cf3ceb98/transformed/runner-1.5.0/AndroidManifest.xml:25:18-59
+25        <package android:name="androidx.test.services" />
+25-->[androidx.test:runner:1.5.0] /home/amrendra/.gradle/caches/9.3.1/transforms/cc1af34ca71f08c0a286dc24cf3ceb98/transformed/runner-1.5.0/AndroidManifest.xml:26:9-58
+25-->[androidx.test:runner:1.5.0] /home/amrendra/.gradle/caches/9.3.1/transforms/cc1af34ca71f08c0a286dc24cf3ceb98/transformed/runner-1.5.0/AndroidManifest.xml:26:18-55
+26        <package android:name="com.google.android.apps.common.testing.services" />
+26-->[androidx.test:runner:1.5.0] /home/amrendra/.gradle/caches/9.3.1/transforms/cc1af34ca71f08c0a286dc24cf3ceb98/transformed/runner-1.5.0/AndroidManifest.xml:27:9-83
+26-->[androidx.test:runner:1.5.0] /home/amrendra/.gradle/caches/9.3.1/transforms/cc1af34ca71f08c0a286dc24cf3ceb98/transformed/runner-1.5.0/AndroidManifest.xml:27:18-80
+27    </queries>
+28
+29    <application
+29-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:12:5-34:19
+30        android:allowBackup="true"
+30-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:13:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.18.0] /home/amrendra/.gradle/caches/9.3.1/transforms/25d6200b818fb6998c5afae588766eb1/transformed/core-1.18.0/AndroidManifest.xml:28:18-86
+32        android:dataExtractionRules="@xml/data_extraction_rules"
+32-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:14:9-65
+33        android:debuggable="true"
+34        android:enableOnBackInvokedCallback="true"
+34-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:15:9-51
+35        android:fullBackupContent="@xml/backup_rules"
+35-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:16:9-54
+36        android:icon="@mipmap/ic_launcher"
+36-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:17:9-43
+37        android:label="@string/app_name"
+37-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:18:9-41
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:19:9-54
+39        android:supportsRtl="true"
+39-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:20:9-35
+40        android:theme="@style/Theme.MyApplication" >
+40-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:21:9-51
+41        <activity
+41-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:22:9-33:20
+42            android:name="com.example.MainActivity"
+42-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:23:13-52
+43            android:exported="true"
+43-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:24:13-36
+44            android:label="@string/app_name"
+44-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:25:13-45
+45            android:theme="@style/Theme.MyApplication"
+45-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:26:13-55
+46            android:windowSoftInputMode="adjustResize" >
+46-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:27:13-55
+47            <intent-filter>
+47-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:28:13-32:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:29:17-69
+48-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:29:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:31:17-77
+50-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:31:27-74
+51            </intent-filter>
+52        </activity>
+53
+54        <service
+54-->[com.google.firebase:firebase-appcheck-debug:19.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/7aff65281a3fcce060aa0e12c73c0c7b/transformed/firebase-appcheck-debug-19.4.0/AndroidManifest.xml:22:9-28:19
+55            android:name="com.google.firebase.components.ComponentDiscoveryService"
+55-->[com.google.firebase:firebase-appcheck-debug:19.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/7aff65281a3fcce060aa0e12c73c0c7b/transformed/firebase-appcheck-debug-19.4.0/AndroidManifest.xml:23:13-84
+56            android:directBootAware="true"
+56-->[com.google.firebase:firebase-common:22.2.0] /home/amrendra/.gradle/caches/9.3.1/transforms/69d8a46b42579016428f761acda4f164/transformed/firebase-common-22.2.0/AndroidManifest.xml:32:13-43
+57            android:exported="false" >
+57-->[com.google.firebase:firebase-appcheck-debug:19.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/7aff65281a3fcce060aa0e12c73c0c7b/transformed/firebase-appcheck-debug-19.4.0/AndroidManifest.xml:24:13-37
+58            <meta-data
+58-->[com.google.firebase:firebase-appcheck-debug:19.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/7aff65281a3fcce060aa0e12c73c0c7b/transformed/firebase-appcheck-debug-19.4.0/AndroidManifest.xml:25:13-27:85
+59                android:name="com.google.firebase.components:com.google.firebase.appcheck.debug.FirebaseAppCheckDebugRegistrar"
+59-->[com.google.firebase:firebase-appcheck-debug:19.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/7aff65281a3fcce060aa0e12c73c0c7b/transformed/firebase-appcheck-debug-19.4.0/AndroidManifest.xml:26:17-128
+60                android:value="com.google.firebase.components.ComponentRegistrar" />
+60-->[com.google.firebase:firebase-appcheck-debug:19.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/7aff65281a3fcce060aa0e12c73c0c7b/transformed/firebase-appcheck-debug-19.4.0/AndroidManifest.xml:27:17-82
+61            <meta-data
+61-->[com.google.firebase:firebase-appcheck-recaptcha:19.2.0] /home/amrendra/.gradle/caches/9.3.1/transforms/2bba382ab3a8461e9dbe063c46aa76b0/transformed/firebase-appcheck-recaptcha-19.2.0/AndroidManifest.xml:24:13-26:85
+62                android:name="com.google.firebase.components:com.google.firebase.appcheck.recaptcha.FirebaseAppCheckRecaptchaRegistrar"
+62-->[com.google.firebase:firebase-appcheck-recaptcha:19.2.0] /home/amrendra/.gradle/caches/9.3.1/transforms/2bba382ab3a8461e9dbe063c46aa76b0/transformed/firebase-appcheck-recaptcha-19.2.0/AndroidManifest.xml:25:17-136
+63                android:value="com.google.firebase.components.ComponentRegistrar" />
+63-->[com.google.firebase:firebase-appcheck-recaptcha:19.2.0] /home/amrendra/.gradle/caches/9.3.1/transforms/2bba382ab3a8461e9dbe063c46aa76b0/transformed/firebase-appcheck-recaptcha-19.2.0/AndroidManifest.xml:26:17-82
+64            <meta-data
+64-->[com.google.firebase:firebase-ai:17.15.0] /home/amrendra/.gradle/caches/9.3.1/transforms/662ab9c0a79f9c383024dd05d7d42333/transformed/firebase-ai-17.15.0/AndroidManifest.xml:31:13-33:85
+65                android:name="com.google.firebase.components:com.google.firebase.ai.FirebaseAIRegistrar"
+65-->[com.google.firebase:firebase-ai:17.15.0] /home/amrendra/.gradle/caches/9.3.1/transforms/662ab9c0a79f9c383024dd05d7d42333/transformed/firebase-ai-17.15.0/AndroidManifest.xml:32:17-105
+66                android:value="com.google.firebase.components.ComponentRegistrar" />
+66-->[com.google.firebase:firebase-ai:17.15.0] /home/amrendra/.gradle/caches/9.3.1/transforms/662ab9c0a79f9c383024dd05d7d42333/transformed/firebase-ai-17.15.0/AndroidManifest.xml:33:17-82
+67            <meta-data
+67-->[com.google.firebase:firebase-appcheck:19.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/821dc6c0dc0d97a234c4f338a6b2d876/transformed/firebase-appcheck-19.4.0/AndroidManifest.xml:25:13-27:85
+68                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar"
+68-->[com.google.firebase:firebase-appcheck:19.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/821dc6c0dc0d97a234c4f338a6b2d876/transformed/firebase-appcheck-19.4.0/AndroidManifest.xml:26:17-120
+69                android:value="com.google.firebase.components.ComponentRegistrar" />
+69-->[com.google.firebase:firebase-appcheck:19.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/821dc6c0dc0d97a234c4f338a6b2d876/transformed/firebase-appcheck-19.4.0/AndroidManifest.xml:27:17-82
+70            <meta-data
+70-->[com.google.firebase:firebase-appcheck:19.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/821dc6c0dc0d97a234c4f338a6b2d876/transformed/firebase-appcheck-19.4.0/AndroidManifest.xml:28:13-30:85
+71                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar"
+71-->[com.google.firebase:firebase-appcheck:19.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/821dc6c0dc0d97a234c4f338a6b2d876/transformed/firebase-appcheck-19.4.0/AndroidManifest.xml:29:17-117
+72                android:value="com.google.firebase.components.ComponentRegistrar" />
+72-->[com.google.firebase:firebase-appcheck:19.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/821dc6c0dc0d97a234c4f338a6b2d876/transformed/firebase-appcheck-19.4.0/AndroidManifest.xml:30:17-82
+73            <meta-data
+73-->[com.google.firebase:firebase-common:22.2.0] /home/amrendra/.gradle/caches/9.3.1/transforms/69d8a46b42579016428f761acda4f164/transformed/firebase-common-22.2.0/AndroidManifest.xml:35:13-37:85
+74                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+74-->[com.google.firebase:firebase-common:22.2.0] /home/amrendra/.gradle/caches/9.3.1/transforms/69d8a46b42579016428f761acda4f164/transformed/firebase-common-22.2.0/AndroidManifest.xml:36:17-109
+75                android:value="com.google.firebase.components.ComponentRegistrar" />
+75-->[com.google.firebase:firebase-common:22.2.0] /home/amrendra/.gradle/caches/9.3.1/transforms/69d8a46b42579016428f761acda4f164/transformed/firebase-common-22.2.0/AndroidManifest.xml:37:17-82
+76        </service>
+77
+78        <activity
+78-->[com.google.android.gms:play-services-base:18.9.0] /home/amrendra/.gradle/caches/9.3.1/transforms/15b04fb7f689b980bbd16d9df8f44223/transformed/play-services-base-18.9.0/AndroidManifest.xml:20:9-22:45
+79            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+79-->[com.google.android.gms:play-services-base:18.9.0] /home/amrendra/.gradle/caches/9.3.1/transforms/15b04fb7f689b980bbd16d9df8f44223/transformed/play-services-base-18.9.0/AndroidManifest.xml:20:19-85
+80            android:exported="false"
+80-->[com.google.android.gms:play-services-base:18.9.0] /home/amrendra/.gradle/caches/9.3.1/transforms/15b04fb7f689b980bbd16d9df8f44223/transformed/play-services-base-18.9.0/AndroidManifest.xml:22:19-43
+81            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+81-->[com.google.android.gms:play-services-base:18.9.0] /home/amrendra/.gradle/caches/9.3.1/transforms/15b04fb7f689b980bbd16d9df8f44223/transformed/play-services-base-18.9.0/AndroidManifest.xml:21:19-78
+82
+83        <provider
+83-->[com.google.firebase:firebase-common:22.2.0] /home/amrendra/.gradle/caches/9.3.1/transforms/69d8a46b42579016428f761acda4f164/transformed/firebase-common-22.2.0/AndroidManifest.xml:23:9-28:39
+84            android:name="com.google.firebase.provider.FirebaseInitProvider"
+84-->[com.google.firebase:firebase-common:22.2.0] /home/amrendra/.gradle/caches/9.3.1/transforms/69d8a46b42579016428f761acda4f164/transformed/firebase-common-22.2.0/AndroidManifest.xml:24:13-77
+85            android:authorities="com.aistudio.javarunner.xqmvpk.debug.firebaseinitprovider"
+85-->[com.google.firebase:firebase-common:22.2.0] /home/amrendra/.gradle/caches/9.3.1/transforms/69d8a46b42579016428f761acda4f164/transformed/firebase-common-22.2.0/AndroidManifest.xml:25:13-72
+86            android:directBootAware="true"
+86-->[com.google.firebase:firebase-common:22.2.0] /home/amrendra/.gradle/caches/9.3.1/transforms/69d8a46b42579016428f761acda4f164/transformed/firebase-common-22.2.0/AndroidManifest.xml:26:13-43
+87            android:exported="false"
+87-->[com.google.firebase:firebase-common:22.2.0] /home/amrendra/.gradle/caches/9.3.1/transforms/69d8a46b42579016428f761acda4f164/transformed/firebase-common-22.2.0/AndroidManifest.xml:27:13-37
+88            android:initOrder="100" />
+88-->[com.google.firebase:firebase-common:22.2.0] /home/amrendra/.gradle/caches/9.3.1/transforms/69d8a46b42579016428f761acda4f164/transformed/firebase-common-22.2.0/AndroidManifest.xml:28:13-36
+89
+90        <service
+90-->[androidx.room:room-runtime-android:2.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/8c8df0effbda6d5134a8b982fce68a33/transformed/room-runtime-release/AndroidManifest.xml:24:9-28:63
+91            android:name="androidx.room.MultiInstanceInvalidationService"
+91-->[androidx.room:room-runtime-android:2.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/8c8df0effbda6d5134a8b982fce68a33/transformed/room-runtime-release/AndroidManifest.xml:25:13-74
+92            android:directBootAware="true"
+92-->[androidx.room:room-runtime-android:2.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/8c8df0effbda6d5134a8b982fce68a33/transformed/room-runtime-release/AndroidManifest.xml:26:13-43
+93            android:exported="false" />
+93-->[androidx.room:room-runtime-android:2.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/8c8df0effbda6d5134a8b982fce68a33/transformed/room-runtime-release/AndroidManifest.xml:27:13-37
+94
+95        <activity
+95-->[androidx.compose.ui:ui-tooling-android:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/cd3374ccb2b57448bfc28e81baabc425/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+96            android:name="androidx.compose.ui.tooling.PreviewActivity"
+96-->[androidx.compose.ui:ui-tooling-android:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/cd3374ccb2b57448bfc28e81baabc425/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+97            android:exported="true" />
+97-->[androidx.compose.ui:ui-tooling-android:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/cd3374ccb2b57448bfc28e81baabc425/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+98
+99        <provider
+99-->[androidx.emoji2:emoji2:1.3.0] /home/amrendra/.gradle/caches/9.3.1/transforms/3228ca039c11a4205eee93767d9ff9c9/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+100            android:name="androidx.startup.InitializationProvider"
+100-->[androidx.emoji2:emoji2:1.3.0] /home/amrendra/.gradle/caches/9.3.1/transforms/3228ca039c11a4205eee93767d9ff9c9/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+101            android:authorities="com.aistudio.javarunner.xqmvpk.debug.androidx-startup"
+101-->[androidx.emoji2:emoji2:1.3.0] /home/amrendra/.gradle/caches/9.3.1/transforms/3228ca039c11a4205eee93767d9ff9c9/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+102            android:exported="false" >
+102-->[androidx.emoji2:emoji2:1.3.0] /home/amrendra/.gradle/caches/9.3.1/transforms/3228ca039c11a4205eee93767d9ff9c9/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+103            <meta-data
+103-->[androidx.emoji2:emoji2:1.3.0] /home/amrendra/.gradle/caches/9.3.1/transforms/3228ca039c11a4205eee93767d9ff9c9/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+104                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+104-->[androidx.emoji2:emoji2:1.3.0] /home/amrendra/.gradle/caches/9.3.1/transforms/3228ca039c11a4205eee93767d9ff9c9/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+105                android:value="androidx.startup" />
+105-->[androidx.emoji2:emoji2:1.3.0] /home/amrendra/.gradle/caches/9.3.1/transforms/3228ca039c11a4205eee93767d9ff9c9/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+106            <meta-data
+106-->[androidx.lifecycle:lifecycle-process:2.8.7] /home/amrendra/.gradle/caches/9.3.1/transforms/f1f2e5c9fcad316f7d2e82baa4e4d63c/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:29:13-31:52
+107                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+107-->[androidx.lifecycle:lifecycle-process:2.8.7] /home/amrendra/.gradle/caches/9.3.1/transforms/f1f2e5c9fcad316f7d2e82baa4e4d63c/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:30:17-78
+108                android:value="androidx.startup" />
+108-->[androidx.lifecycle:lifecycle-process:2.8.7] /home/amrendra/.gradle/caches/9.3.1/transforms/f1f2e5c9fcad316f7d2e82baa4e4d63c/transformed/lifecycle-process-2.8.7/AndroidManifest.xml:31:17-49
+109            <meta-data
+109-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+110                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+110-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+111                android:value="androidx.startup" />
+111-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+112        </provider>
+113
+114        <activity
+114-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:27:9-34:20
+115            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+115-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:28:13-99
+116            android:exported="true"
+116-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:29:13-36
+117            android:theme="@style/WhiteBackgroundTheme" >
+117-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:30:13-56
+118            <intent-filter android:priority="-100" >
+118-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:31:13-33:29
+118-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:31:28-51
+119                <category android:name="android.intent.category.LAUNCHER" />
+119-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:31:17-77
+119-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:31:27-74
+120            </intent-filter>
+121        </activity>
+122        <activity
+122-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:35:9-42:20
+123            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+123-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:36:13-95
+124            android:exported="true"
+124-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:37:13-36
+125            android:theme="@style/WhiteBackgroundTheme" >
+125-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:38:13-56
+126            <intent-filter android:priority="-100" >
+126-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:31:13-33:29
+126-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:31:28-51
+127                <category android:name="android.intent.category.LAUNCHER" />
+127-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:31:17-77
+127-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:31:27-74
+128            </intent-filter>
+129        </activity>
+130        <activity
+130-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:43:9-50:20
+131            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+131-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:44:13-103
+132            android:exported="true"
+132-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:45:13-36
+133            android:theme="@style/WhiteBackgroundDialogTheme" >
+133-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:46:13-62
+134            <intent-filter android:priority="-100" >
+134-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:31:13-33:29
+134-->[androidx.test:core:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/f723fa4bbb46c0b6d1e3929cfef34399/transformed/core-1.7.0/AndroidManifest.xml:31:28-51
+135                <category android:name="android.intent.category.LAUNCHER" />
+135-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:31:17-77
+135-->/run/media/amrendra/Volume D/All Workspaces/Weltech Nepal Workspace/41_java-compiler/app/build/intermediates/tmp/manifest/test/debug/tempFile2ProcessTestManifest9468186052798257752.xml:31:27-74
+136            </intent-filter>
+137        </activity>
+138
+139        <receiver
+139-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+140            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+140-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+141            android:directBootAware="false"
+141-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+142            android:enabled="true"
+142-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+143            android:exported="true"
+143-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+144            android:permission="android.permission.DUMP" >
+144-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+145            <intent-filter>
+145-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+146                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+146-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+146-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+147            </intent-filter>
+148            <intent-filter>
+148-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+149                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+149-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+149-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+150            </intent-filter>
+151            <intent-filter>
+151-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+152                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+152-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+152-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+153            </intent-filter>
+154            <intent-filter>
+154-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+155                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+155-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+155-->[androidx.profileinstaller:profileinstaller:1.4.0] /home/amrendra/.gradle/caches/9.3.1/transforms/a72c5de95dd7f0991a29dd5a29fe7172/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+156            </intent-filter>
+157        </receiver>
+158
+159        <meta-data
+159-->[com.google.android.gms:play-services-basement:18.9.0] /home/amrendra/.gradle/caches/9.3.1/transforms/6f04bd7fc7c3f174a73f922e8ed7e105/transformed/play-services-basement-18.9.0/AndroidManifest.xml:21:9-23:69
+160            android:name="com.google.android.gms.version"
+160-->[com.google.android.gms:play-services-basement:18.9.0] /home/amrendra/.gradle/caches/9.3.1/transforms/6f04bd7fc7c3f174a73f922e8ed7e105/transformed/play-services-basement-18.9.0/AndroidManifest.xml:22:13-58
+161            android:value="@integer/google_play_services_version" />
+161-->[com.google.android.gms:play-services-basement:18.9.0] /home/amrendra/.gradle/caches/9.3.1/transforms/6f04bd7fc7c3f174a73f922e8ed7e105/transformed/play-services-basement-18.9.0/AndroidManifest.xml:23:13-66
+162
+163        <activity
+163-->[androidx.compose.ui:ui-test-manifest:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/8e7f19a77eb62f6cad392d7df99ea5c9/transformed/ui-test-manifest-1.7.0/AndroidManifest.xml:23:9-25:39
+164            android:name="androidx.activity.ComponentActivity"
+164-->[androidx.compose.ui:ui-test-manifest:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/8e7f19a77eb62f6cad392d7df99ea5c9/transformed/ui-test-manifest-1.7.0/AndroidManifest.xml:24:13-63
+165            android:exported="true" /> <!-- The activities will be merged into the manifest of the hosting app. -->
+165-->[androidx.compose.ui:ui-test-manifest:1.7.0] /home/amrendra/.gradle/caches/9.3.1/transforms/8e7f19a77eb62f6cad392d7df99ea5c9/transformed/ui-test-manifest-1.7.0/AndroidManifest.xml:25:13-36
+166        <activity
+166-->[com.google.android.play:core-common:2.0.4] /home/amrendra/.gradle/caches/9.3.1/transforms/575341ea56eb03281dc8c25ae86d1653/transformed/core-common-2.0.4/AndroidManifest.xml:14:9-18:65
+167            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+167-->[com.google.android.play:core-common:2.0.4] /home/amrendra/.gradle/caches/9.3.1/transforms/575341ea56eb03281dc8c25ae86d1653/transformed/core-common-2.0.4/AndroidManifest.xml:15:13-93
+168            android:exported="false"
+168-->[com.google.android.play:core-common:2.0.4] /home/amrendra/.gradle/caches/9.3.1/transforms/575341ea56eb03281dc8c25ae86d1653/transformed/core-common-2.0.4/AndroidManifest.xml:16:13-37
+169            android:stateNotNeeded="true"
+169-->[com.google.android.play:core-common:2.0.4] /home/amrendra/.gradle/caches/9.3.1/transforms/575341ea56eb03281dc8c25ae86d1653/transformed/core-common-2.0.4/AndroidManifest.xml:17:13-42
+170            android:theme="@style/Theme.PlayCore.Transparent" />
+170-->[com.google.android.play:core-common:2.0.4] /home/amrendra/.gradle/caches/9.3.1/transforms/575341ea56eb03281dc8c25ae86d1653/transformed/core-common-2.0.4/AndroidManifest.xml:18:13-62
+171    </application>
+172
+173</manifest>

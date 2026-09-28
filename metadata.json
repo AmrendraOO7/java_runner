@@ -1,0 +1,6 @@
+{
+  "name": "Java Runner",
+  "description": "Compile and execute Java files with real-time syntax highlighting, interactive terminal, and file management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string clear_terminal
+string editor_tab
+string errors_tab
+string files_tab
+string input_placeholder
+string new_file
+string no_errors_found
+string open_file
+string run_code
+string save_as_file
+string save_file
+string send_input
+string stop_code
+string syntax_error_title
+string templates_title
+string terminal_tab
+string terminal_title
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules

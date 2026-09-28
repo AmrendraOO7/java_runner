@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Java Runner</string>
+    <string name="run_code">Run</string>
+    <string name="stop_code">Stop</string>
+    <string name="clear_terminal">Clear</string>
+    <string name="save_file">Save</string>
+    <string name="save_as_file">Save As</string>
+    <string name="open_file">Open File</string>
+    <string name="new_file">New File</string>
+    <string name="terminal_title">Terminal Console</string>
+    <string name="input_placeholder">Type input for program (Enter to send)...</string>
+    <string name="send_input">Send</string>
+    <string name="editor_tab">Editor</string>
+    <string name="terminal_tab">Terminal</string>
+    <string name="errors_tab">Diagnostics</string>
+    <string name="files_tab">Files</string>
+    <string name="templates_title">Templates &amp; Samples</string>
+    <string name="syntax_error_title">Syntax &amp; Runtime Diagnostics</string>
+    <string name="no_errors_found">No errors detected in current code.</string>
+</resources>

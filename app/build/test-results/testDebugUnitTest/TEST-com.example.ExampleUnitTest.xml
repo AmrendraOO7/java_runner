@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.ExampleUnitTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-09-28T20:42:25.202Z" hostname="hp-victus-15" time="0.155">
+  <properties/>
+  <testcase name="testJavaExecutionEngineExecutesClassHelperMethod" classname="com.example.ExampleUnitTest" time="0.095"/>
+  <testcase name="testSyntaxAnalyzerCleanCode" classname="com.example.ExampleUnitTest" time="0.003"/>
+  <testcase name="testSyntaxAnalyzerBracketMismatch" classname="com.example.ExampleUnitTest" time="0.003"/>
+  <testcase name="testFileStarterTemplateGeneration" classname="com.example.ExampleUnitTest" time="0.031"/>
+  <testcase name="testMainMethodWrapperIsConvertedToInterpreterScript" classname="com.example.ExampleUnitTest" time="0.001"/>
+  <testcase name="testJavaExecutionEngineStdinScanner" classname="com.example.ExampleUnitTest" time="0.013"/>
+  <testcase name="testJavaExecutionEngineExecution" classname="com.example.ExampleUnitTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
